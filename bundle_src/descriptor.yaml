@@ -1,0 +1,6 @@
+code: simple-mfe-with-config
+description: a React MFE with configuration
+components:
+  widgets:
+    - ui/widgets/widgets-dir/simple-mfe/simple-mfe-descriptor.yaml
+
